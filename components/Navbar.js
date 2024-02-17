@@ -6,7 +6,7 @@ import customcontainer from "../pages/customcontainer";
 
 import BSMenu from "./BSMenu";
 import OFMenu from "./OFMenu";
-import AboutMenu from "./Aboutmenu";
+import AboutMenu from "./AboutMenu";
 import MainSearchBar from "../pages/mainSearchBarPage";
 import mainpagecontent from "../pages/mainpagecontent";
 
@@ -14,8 +14,7 @@ import mainpagecontent from "../pages/mainpagecontent";
 
 
 
-import Customsearchbar from "../Pages/customsearchbar";
-import contact from "../Pages/Contact";
+import contact from "../pages/Contact";
 import SignUp from "../pages/SignUp";
 import signin from "../pages/SignIn";
 import sliderpages from "../pages/sliderpages";
